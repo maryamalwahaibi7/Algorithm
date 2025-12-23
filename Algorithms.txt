@@ -67,3 +67,14 @@ Update smallest
 return smallest
 END
 
+Task 4: Count Positive and Negative Numbers
+START
+INPUT list of numbers
+Add two counters
+one for positive numbers
+one for negative numbers
+Check each number in the list
+If the number is greater than 0, increase the positive counter
+If the number is less than 0, increase the negative counter
+RETURN positive Count, negative Count
+END
