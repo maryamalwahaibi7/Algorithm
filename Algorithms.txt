@@ -45,3 +45,14 @@ Average = Sum of numbers ÷ Number of values
 return average
 END
 
+Task 2: Check if a Number is Even or Odd
+START
+INPUT number
+Divide the number by 2
+Check the remainder
+If the remainder is 0
+OUTPUT "Even"
+If the remainder is not 0
+OUTPUT "Odd"
+return OUTPUT
+END
