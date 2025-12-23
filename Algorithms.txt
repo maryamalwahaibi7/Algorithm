@@ -78,3 +78,14 @@ If the number is greater than 0, increase the positive counter
 If the number is less than 0, increase the negative counter
 RETURN positive Count, negative Count
 END
+
+Task 5: Remove Duplicates from a List
+START
+INPUT list of numbers
+Add new empty list to store unique values
+Check each element in the list
+If element is unique , add it the new list 
+If element is not unique , don't add it the new list 
+return result
+END
+
