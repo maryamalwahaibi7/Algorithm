@@ -56,3 +56,14 @@ If the remainder is not 0
 OUTPUT "Odd"
 return OUTPUT
 END
+
+Task 3: Find the Smallest Number in a List
+START
+INPUT list of numbers
+Set smallest to first number in the list
+Check each number in the list
+If the number is smaller than smallest
+Update smallest
+return smallest
+END
+
