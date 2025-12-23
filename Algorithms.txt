@@ -34,3 +34,14 @@ INPUT number2
 sum ← number1 + number2
 OUTPUT sum
 END
+
+Task 1: Calculate Average
+START
+INPUT number1
+INPUT number2
+Sum = number1 + number2
+Count number of values
+Average = Sum of numbers ÷ Number of values
+return average
+END
+
