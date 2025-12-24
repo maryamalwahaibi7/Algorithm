@@ -89,3 +89,18 @@ If element is not unique , don't add it the new list
 return result
 END
 
+Prime numbers are numbers greater than 1 that can be divided only by 1 and themselves—no other whole numbers.
+Examples:
+2, 3, 5, 7, 11
+Task 6: Find All Prime Numbers Up to N
+START
+INPUT a positive number N
+Create an empty list to store prime numbers
+Start checking numbers from 2 up to N
+For each number, check if it is divisible by any number other than 1 and itself
+If it can be divided, it is not prime
+If it cannot be divided by any number, it is a prime number
+Store the prime numbers in a list
+return result
+END
+
