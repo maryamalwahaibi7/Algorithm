@@ -114,4 +114,14 @@ Add the smaller element to the new list
 return result
 END
 
+Task 8: Find the Second Largest Number
+START
+INPUT list of numbers
+Set the first number as the largest
+Set another value to store the second largest
+Check each number in the list one by one
+If a number is greater than the largest, update both largest and second largest
+If a number is smaller than the largest but greater than the second largest, update the second largest
+return result
+END
 
