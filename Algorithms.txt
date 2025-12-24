@@ -40,8 +40,7 @@ START
 INPUT number1
 INPUT number2
 Sum = number1 + number2
-Count number of values
-Average = Sum of numbers ÷ Number of values
+Average = Sum of numbers ÷ 2
 return average
 END
 
