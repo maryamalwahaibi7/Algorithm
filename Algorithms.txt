@@ -104,3 +104,14 @@ Store the prime numbers in a list
 return result
 END
 
+Task 7: Merge Two Sorted Lists
+START
+INPUT sorted list 1
+INPUT sorted list 2
+Create a new empty list to store the merged result
+Compare the first elements of both lists
+Add the smaller element to the new list
+return result
+END
+
+
