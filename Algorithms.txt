@@ -125,3 +125,21 @@ If a number is smaller than the largest but greater than the second largest, upd
 return result
 END
 
+A palindrome is a word, number, or phrase that reads the same forward and backward.
+Examples:
+Word: madam
+Number: 121
+Phrase: level
+
+Task 9: Check if a String is a Palindrome
+Take a string as input
+Convert the string to the same case (for example, all lowercase)
+Remove all spaces from the string
+Set one position at the beginning of the string
+Set another position at the end of the string
+Compare the characters at both positions
+If any characters are different, it is not a palindrome
+If all characters match, it is a palindrome
+return result
+END
+
