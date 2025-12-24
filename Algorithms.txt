@@ -143,3 +143,18 @@ If all characters match, it is a palindrome
 return result
 END
 
+The Fibonacci sequence is a list of numbers where each number is the sum of the two numbers before it.
+Example:
+0, 1, 1, 2, 3, 5, 8, 13
+
+Task 10: Generate Fibonacci Sequence
+START
+Take a positive number N
+Create a list to store the Fibonacci numbers
+Add 0 as the first number
+Add 1 as the second number
+For the remaining numbers: add the last two numbers to get the next number
+Store each new number in the list
+Repeat until N numbers are generated
+return result
+END
